@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recipe_payment_gateway/static/css/main.641bb23f.chunk.css",
+    "main.js": "/recipe_payment_gateway/static/js/main.8f82bafa.chunk.js",
+    "main.js.map": "/recipe_payment_gateway/static/js/main.8f82bafa.chunk.js.map",
+    "runtime-main.js": "/recipe_payment_gateway/static/js/runtime-main.d44269c0.js",
+    "runtime-main.js.map": "/recipe_payment_gateway/static/js/runtime-main.d44269c0.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/recipe_payment_gateway/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.718eadf1.chunk.js": "/recipe_payment_gateway/static/js/2.718eadf1.chunk.js",
+    "static/js/2.718eadf1.chunk.js.map": "/recipe_payment_gateway/static/js/2.718eadf1.chunk.js.map",
+    "index.html": "/recipe_payment_gateway/index.html",
+    "precache-manifest.5c9831ec093e175742e6f913fb39df28.js": "/recipe_payment_gateway/precache-manifest.5c9831ec093e175742e6f913fb39df28.js",
+    "service-worker.js": "/recipe_payment_gateway/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/recipe_payment_gateway/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.641bb23f.chunk.css.map": "/recipe_payment_gateway/static/css/main.641bb23f.chunk.css.map",
+    "static/js/2.718eadf1.chunk.js.LICENSE.txt": "/recipe_payment_gateway/static/js/2.718eadf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d44269c0.js",
+    "static/css/2.6414bb7b.chunk.css",
+    "static/js/2.718eadf1.chunk.js",
+    "static/css/main.641bb23f.chunk.css",
+    "static/js/main.8f82bafa.chunk.js"
+  ]
+}
